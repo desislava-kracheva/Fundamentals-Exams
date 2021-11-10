@@ -21,7 +21,7 @@ while(students > 0){
     }
 }
 
-console.log(`Time needed:  ${hour}h.`);
+console.log(`Time needed: ${hour}h.`);
 
 }
 
